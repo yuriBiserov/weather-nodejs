@@ -2,7 +2,8 @@
   "scripts":
   {
     "start":"node weather_app"
-  }
+  },
+  
   "dependencies": {
     "chalk": "^4.1.2",
     "got": "^11.8.2",
